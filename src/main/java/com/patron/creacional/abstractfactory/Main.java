@@ -4,7 +4,7 @@ import com.patron.creacional.abstractfactory.armor.Armor;
 import com.patron.creacional.abstractfactory.weapon.Weapon;
 import com.patron.creacional.factory.Enemy;
 
-public class main {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
